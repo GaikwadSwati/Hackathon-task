@@ -1,0 +1,23 @@
+.purple{
+  background-color: rgba(92, 33, 139, 1);
+}
+
+.purple-text{
+  color: rgba(92, 33, 139, 1);
+}
+
+.logo{
+  width: 301px;
+    height: 158px;
+    top: 161px;
+    left: 285px;
+    bottom: 0;
+  }
+
+  .forgot-pass-h1{
+    font-family: Poppins;
+font-size: 32px;
+font-weight: 600;
+line-height: 48px;
+color: rgba(92, 33, 139, 1);
+}
